@@ -22,7 +22,7 @@ body {
   grid-template-rows: 1fr max-content;
 }
 
-main {
+.container {
   display: grid;
   place-content: center;
 }
